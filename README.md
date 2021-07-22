@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [Check out my Medium page](https://medium.com/@jdelahunt)
+
 [Check out my LinkedIn](https://www.linkedin.com/in/the-jack-delahunt/)
 
 
