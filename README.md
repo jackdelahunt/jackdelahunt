@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[Check out my Medium page](https://medium.com/@jdelahunt)
+[Check out my LinkedIn](https://www.linkedin.com/in/the-jack-delahunt/)
+
+
 [![Jack's github stats](https://github-readme-stats.vercel.app/api?username=jackdelahunt&count_private=true&show_icons=true&theme=bear)](https://jackdelahunt.github.io)
 
 ## Languages I Use
